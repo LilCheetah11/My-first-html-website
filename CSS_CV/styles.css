@@ -1,0 +1,25 @@
+/* table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+    } */
+
+  
+body{
+  background-color:#82b607;
+}
+hr{
+  background-color: rgb(235, 232, 247);
+  border-style:none none dotted none;
+  border-color: grey;
+  border-width: 6px;
+  height: 2px;
+  width: 10%;
+}
+
+h1{
+  color: #00521b;
+}
+
+h3{
+  color: #00521b;
+}
